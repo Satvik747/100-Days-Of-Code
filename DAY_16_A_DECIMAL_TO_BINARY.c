@@ -25,4 +25,5 @@ int main(){
     }
     printf("%d",bin);
     return 0;
+
 }
